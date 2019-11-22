@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1574438849 source:e:\c++\help\thanhtai\main.c
+	"function.h"
+
+1574438209 source:e:\c++\help\thanhtai\calculating_func.c
+	"Calculating_FUNC.h"
+
+1574439092 e:\c++\help\thanhtai\calculating_func.h
+
+1574437294 e:\c++\help\thanhtai\function.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"Calculating_FUNC.h"
+
